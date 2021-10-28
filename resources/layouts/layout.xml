@@ -1,0 +1,7 @@
+<layout id="MainLayout">
+        <label id="title" x="center" y="top" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY" />
+        <label id="azititle" x="0" y="center" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_SMALL" />
+        <label id="azimuth" x="center" y="center" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_NUMBER_MEDIUM" />
+        <label id="eletitle" x="0" y="center" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_SMALL" />
+        <label id="elevation" x="center" y="center" color="Gfx.COLOR_RED" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_NUMBER_MILD" />
+</layout>

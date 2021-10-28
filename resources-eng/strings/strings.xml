@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName" scope="glance">Simply Lunar</string>
+    <string id="Title">Lunar Angles</string>
+    <string id="Azimuth">Azimuth</string>
+    <string id="Elevation">Elevation</string>
+    <string id="NoGPS">acquiring GPS</string>
+</strings>

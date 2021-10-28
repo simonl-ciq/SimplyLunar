@@ -1,0 +1,10 @@
+<resources>
+    <bitmap id="Phase00" filename="Moon_phase_0_0.png" />
+    <bitmap id="Phase17" filename="Moon_phase_1_7.png" />
+    <bitmap id="Phase26" filename="Moon_phase_2_6.png" />
+    <bitmap id="Phase35" filename="Moon_phase_3_5.png" />
+    <bitmap id="Phase44" filename="Moon_phase_4_4.png" />
+    <bitmap id="Phase53" filename="Moon_phase_5_3.png" />
+    <bitmap id="Phase62" filename="Moon_phase_6_2.png" />
+    <bitmap id="Phase71" filename="Moon_phase_7_1.png" />
+</resources>
